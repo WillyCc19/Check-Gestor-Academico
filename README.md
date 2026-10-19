@@ -43,8 +43,8 @@ El proyecto permite aplicar conceptos de programación en Python, manejo de form
 | **HTML5** | Estructura de las páginas y formularios. |
 | **CSS3** | Estilos y presentación visual. |
 | **JavaScript** | Peticiones `fetch()` para consultar tareas. |
-| **Jinja2** | Renderización de las listas y valores desde Flask. |
-| **Gunicorn** | Servidor WSGI previsto en la configuración de despliegue (`Procfile`). |
+<!--| **Jinja2** | Renderización de las listas y valores desde Flask. |
+| **Gunicorn** | Servidor WSGI previsto en la configuración de despliegue (`Procfile`). | -->
 
 ## 🖥️ Vista del proyecto
 
